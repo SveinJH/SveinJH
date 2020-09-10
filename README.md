@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Svein Jakob Høie and I am currently enrolled in the third year of a bachelor's degree in Computer Engineering at NTNU Trondheim.
+My name is Svein Jakob Høie and I am currently enrolled in the third year of a bachelor's degree in Computer Science at NTNU Trondheim.
 
 - 🔭 I’m currently working on [The Wine Base](https://github.com/SveinJH/TheWineBase). A hobby project where I tie together things I have learned about React, Redux, Firestore and Firebase Authentication. It is under construction and therefore has a lot of bugs at the moment :)
 
